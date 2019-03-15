@@ -1,4 +1,4 @@
-# CapstoneDesign1234
+# Unidyroom
 캡스톤 디자인 2019년 1학기 레포입니다.
 
 팀원  
